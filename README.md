@@ -1,11 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Carlos Coelho and my nickname is "ComaN10"!
-
-<div>
+<p align="center">
 <a href="https://github.com/ComaN10">
-<img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaN10&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ComaN10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ComaN10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-</div>
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
