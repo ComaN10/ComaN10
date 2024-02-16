@@ -3,14 +3,15 @@
 
 <div>
 <a href="https://github.com/ComaN10">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaN10&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ComaN10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaN10&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 <p align="center">
-  <img src="https://tenor.com/pt-PT/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" width="350">
-</p>  
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+  
+🖥️ Tecnologias e Ferramentas: 
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
