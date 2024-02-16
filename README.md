@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-Hello! I'm Carlos Coelho, a Computer Engineering student at the University of Madeira. This repository has been created to document and share my academic work and personal projects. Feel free to explore. Your visit is greatly appreciated!
+Hello! I'm Carlos Coelho, a Software Engineering student at the University of Madeira. This repository has been created to document and share my academic work and personal projects. Feel free to explore. Your visit is greatly appreciated!
 
 If you have any suggestions, questions, or are interested in collaborating, don't hesitate to get in touch. I hope you find useful and interesting information about my academic journey and programming projects.
 
