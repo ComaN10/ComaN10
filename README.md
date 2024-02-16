@@ -1,5 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Carlos Coelho and my nickname is "ComaN10"!
+
+Hello! I'm Carlos Coelho, a Computer Engineering student at the University of Madeira. This repository has been created to document and share my academic work and personal projects. Feel free to explore. Your visit is greatly appreciated!
+
+If you have any suggestions, questions, or are interested in collaborating, don't hesitate to get in touch. I hope you find useful and interesting information about my academic journey and programming projects.
+
+Enjoy your exploration!
+
+**Carlos Coelho**
+
 <p align="center">
 <a href="https://github.com/ComaN10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ComaN10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -11,7 +19,7 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
   
-🖥️ Tecnologias e Ferramentas: 
+🖥️ Tecnologies and Tools: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -22,7 +30,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
   
-## Contatos:
+## Contacts:
 <div>
 <a href="https://www.linkedin.com/in/carlos-coelho03/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
