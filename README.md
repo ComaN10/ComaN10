@@ -24,13 +24,20 @@ Enjoy your exploration!
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg" title = "SOURCETREE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original-wordmark.svg" title = "FIGMA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "UNITY"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title = "UNITY"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="FIGMA"  height="40"/> </code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title = "NODEJS"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MONGODB"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title = "LINUX"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title = "C#"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "PYTHON"/></code>
+
 
   
 ## Contacts:
