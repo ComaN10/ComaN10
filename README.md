@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-Hello! I'm Carlos Coelho, a Master's student in Software Engineering at the University of Madeira. Having recently completed my Bachelor's degree in the same field, I'm now advancing my knowledge and skills at the graduate level. This repository showcases both my academic journey and personal projects throughout my educational path.
+Hello! I'm Carlos Coelho, a Master's external student in Software Engineering at the University of Madeira. Having recently completed my Bachelor's degree in the same field, I'm now advancing my knowledge and skills at the graduate level. This repository showcases both my academic journey and personal projects throughout my educational path.
 
 Feel free to explore my work, from undergraduate foundations to more advanced graduate-level projects. Your visit and interest in my programming portfolio are greatly appreciated!
 
